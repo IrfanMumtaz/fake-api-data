@@ -1,0 +1,9 @@
+{
+  "cdn_empty": {},
+  "cdn_data": {
+    "id": 1,
+    "include" : "wp-include",
+    "exclude" : ".php",
+    "disable_admin" : true
+  }
+}
